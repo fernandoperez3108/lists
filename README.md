@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# list-odim-project
 
 > One paragraph statement about the project.
 
